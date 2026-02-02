@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/adamy/CLionProjects/graphicsTesting/glfw/build/cmake_install.cmake",
+		"C:/Users/adamy/CLionProjects/graphicsTesting/glfw/build/src/cmake_install.cmake",
+		"C:/Users/adamy/CLionProjects/graphicsTesting/glfw/build/examples/cmake_install.cmake",
+		"C:/Users/adamy/CLionProjects/graphicsTesting/glfw/build/tests/cmake_install.cmake",
+		"C:/Users/adamy/CLionProjects/graphicsTesting/glfw/build/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

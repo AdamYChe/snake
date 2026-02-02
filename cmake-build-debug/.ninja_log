@@ -1,0 +1,25 @@
+# ninja log v5
+1805	3530	7917058867399423	glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	c3b308631bbd71c6
+1	998	7917058842057688	CMakeFiles/snake.dir/main.cpp.obj	ef5f48532769e5ca
+47	1801	7917058850116367	glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	34daa73ecfe1ba3
+59	1813	7917058850090366	glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	5d346fbfb1a64385
+2052	3764	7917058869819669	glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	a8a2eb869c0c34ab
+24	1856	7917058850527909	glfw/src/CMakeFiles/glfw.dir/init.c.obj	179e38f3f410c816
+6	1826	7917058850275943	glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	204c4c3c6149d0ae
+53	1866	7917058850563080	glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	2130752cb5ad5c1f
+18	1840	7917058850326037	glfw/src/CMakeFiles/glfw.dir/context.c.obj	6830f643a4511520
+30	1889	7917058850918736	glfw/src/CMakeFiles/glfw.dir/platform.c.obj	75cfb51d55e81e5a
+37	2022	7917058852127944	glfw/src/CMakeFiles/glfw.dir/window.c.obj	a42d942a9dd9aa92
+12	2052	7917058852538151	glfw/src/CMakeFiles/glfw.dir/input.c.obj	3ffe84f1ad92e21
+1014	2825	7917058860317446	glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	de277c01444a394f
+1840	3426	7917058866263774	glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	86b471f33f2acb79
+1827	3455	7917058866630261	glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	fc17dd0c01a6323f
+1856	3491	7917058867042075	glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	8ae0a9a7e4897c3c
+2023	3547	7917058867548136	glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	c6c8058402568ab
+1814	3549	7917058867563351	glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	cf662fd059907a53
+5280	5429	7917058886427307	snake.exe	4df98f2f82b8ba8e
+1867	3559	7917058867745723	glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	8e0d475bd6003969
+1922	3587	7917058868035259	glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	8f51e230742f3872
+2825	3942	7917058871602900	glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	853b19401278b474
+3427	4221	7917058874389841	glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	fe3dcd4822c0ed1c
+4221	5280	7917058884974144	glfw/src/libglfw3.a	244b5c44b08d46d0
