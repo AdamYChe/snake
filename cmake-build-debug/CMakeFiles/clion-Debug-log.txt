@@ -1,7 +1,16 @@
-C:\Users\adamy\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/adamy/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\adamy\CLionProjects\snake -B C:\Users\adamy\CLionProjects\snake\cmake-build-debug
+C:\Users\adamy\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\adamy\Projects\snake -B C:\Users\adamy\Projects\snake\cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
 -- Including Win32 support
 -- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
 -- Documentation generation requires Doxygen 1.9.8 or later
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/adamy/CLionProjects/snake/cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.3s)
+-- Build files have been written to: C:/Users/adamy/Projects/snake/cmake-build-debug

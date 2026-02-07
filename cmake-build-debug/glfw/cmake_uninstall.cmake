@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "C:/Users/adamy/CLionProjects/snake/cmake-build-debug/glfw/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/adamy/CLionProjects/snake/cmake-build-debug/glfw/install_manifest.txt\"")
+if (NOT EXISTS "C:/Users/adamy/Projects/snake/cmake-build-debug/glfw/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/adamy/Projects/snake/cmake-build-debug/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "C:/Users/adamy/CLionProjects/snake/cmake-build-debug/glfw/install_manifest.txt" files)
+file(READ "C:/Users/adamy/Projects/snake/cmake-build-debug/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

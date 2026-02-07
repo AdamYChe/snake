@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/adamy/CLionProjects/snake/glfw/docs
+# Install script for directory: C:/Users/adamy/Projects/snake/glfw/docs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/bin/objdump.exe")
 endif()
 
