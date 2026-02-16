@@ -8,8 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/adamy/Projects/snake/glad/src/glad.c" "CMakeFiles/snake.dir/glad/src/glad.c.obj" "gcc" "CMakeFiles/snake.dir/glad/src/glad.c.obj.d"
-  "C:/Users/adamy/Projects/snake/main.cpp" "CMakeFiles/snake.dir/main.cpp.obj" "gcc" "CMakeFiles/snake.dir/main.cpp.obj.d"
+  "C:/Users/adamy/Projects/snake/lib/glad/src/glad.c" "CMakeFiles/snake.dir/lib/glad/src/glad.c.obj" "gcc" "CMakeFiles/snake.dir/lib/glad/src/glad.c.obj.d"
+  "C:/Users/adamy/Projects/snake/include/camera/camera.cpp" "CMakeFiles/snake.dir/include/camera/camera.cpp.obj" "gcc" "CMakeFiles/snake.dir/include/camera/camera.cpp.obj.d"
+  "C:/Users/adamy/Projects/snake/src/main.cpp" "CMakeFiles/snake.dir/src/main.cpp.obj" "gcc" "CMakeFiles/snake.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

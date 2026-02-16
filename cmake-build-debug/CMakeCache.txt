@@ -320,7 +320,7 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 DOXYGEN_EXECUTABLE:FILEPATH=DOXYGEN_EXECUTABLE-NOTFOUND
 
 //Value Computed by CMake
-GLFW_BINARY_DIR:STATIC=C:/Users/adamy/Projects/snake/cmake-build-debug/glfw
+GLFW_BINARY_DIR:STATIC=C:/Users/adamy/Projects/snake/cmake-build-debug/lib/glfw
 
 //Build the GLFW documentation
 GLFW_BUILD_DOCS:BOOL=ON
@@ -345,7 +345,7 @@ GLFW_IS_TOP_LEVEL:STATIC=OFF
 GLFW_LIBRARY_TYPE:STRING=
 
 //Value Computed by CMake
-GLFW_SOURCE_DIR:STATIC=C:/Users/adamy/Projects/snake/glfw
+GLFW_SOURCE_DIR:STATIC=C:/Users/adamy/Projects/snake/lib/glfw
 
 //Force use of high-performance GPU on hybrid systems
 GLFW_USE_HYBRID_HPG:BOOL=OFF

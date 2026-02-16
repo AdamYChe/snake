@@ -1,1 +1,1 @@
--IC:/Users/adamy/Projects/snake/glad/include -IC:/Users/adamy/Projects/snake/glfw/include
+-IC:/Users/adamy/Projects/snake/lib -IC:/Users/adamy/Projects/snake/lib/glad/include -IC:/Users/adamy/Projects/snake/include -IC:/Users/adamy/Projects/snake/lib/glfw/include

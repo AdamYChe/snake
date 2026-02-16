@@ -3,10 +3,15 @@ project(snake)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_subdirectory(glfw)
+include_directories(lib) # glm
 
-include_directories(glad/include)
-set(GLAD_LIB "${CMAKE_CURRENT_SOURCE_DIR}/glad/src/glad.c")
+add_subdirectory(lib/glfw) # glfw
 
-add_executable(snake main.cpp ${GLAD_LIB})
+include_directories(lib/glad/include)   # glad
+set(GLAD_LIB "${CMAKE_CURRENT_SOURCE_DIR}/lib/glad/src/glad.c")
+
+add_executable(snake src/main.cpp ${GLAD_LIB}
+        include/camera/camera.cpp
+)
 target_link_libraries(snake glfw)
+target_include_directories(snake PUBLIC include)

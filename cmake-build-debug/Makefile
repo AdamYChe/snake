@@ -183,7 +183,7 @@ uninstall: cmake_check_build_system
 
 # fast build rule for target.
 uninstall/fast:
-	$(MAKE) $(MAKESILENT) -f glfw\CMakeFiles\uninstall.dir\build.make glfw/CMakeFiles/uninstall.dir/build
+	$(MAKE) $(MAKESILENT) -f lib\glfw\CMakeFiles\uninstall.dir\build.make lib/glfw/CMakeFiles/uninstall.dir/build
 .PHONY : uninstall/fast
 
 #=============================================================================
@@ -196,7 +196,7 @@ glfw: cmake_check_build_system
 
 # fast build rule for target.
 glfw/fast:
-	$(MAKE) $(MAKESILENT) -f glfw\src\CMakeFiles\glfw.dir\build.make glfw/src/CMakeFiles/glfw.dir/build
+	$(MAKE) $(MAKESILENT) -f lib\glfw\src\CMakeFiles\glfw.dir\build.make lib/glfw/src/CMakeFiles/glfw.dir/build
 .PHONY : glfw/fast
 
 #=============================================================================
@@ -209,56 +209,80 @@ update_mappings: cmake_check_build_system
 
 # fast build rule for target.
 update_mappings/fast:
-	$(MAKE) $(MAKESILENT) -f glfw\src\CMakeFiles\update_mappings.dir\build.make glfw/src/CMakeFiles/update_mappings.dir/build
+	$(MAKE) $(MAKESILENT) -f lib\glfw\src\CMakeFiles\update_mappings.dir\build.make lib/glfw/src/CMakeFiles/update_mappings.dir/build
 .PHONY : update_mappings/fast
 
-glad/src/glad.obj: glad/src/glad.c.obj
-.PHONY : glad/src/glad.obj
+include/camera/camera.obj: include/camera/camera.cpp.obj
+.PHONY : include/camera/camera.obj
 
 # target to build an object file
-glad/src/glad.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/glad/src/glad.c.obj
-.PHONY : glad/src/glad.c.obj
+include/camera/camera.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/camera/camera.cpp.obj
+.PHONY : include/camera/camera.cpp.obj
 
-glad/src/glad.i: glad/src/glad.c.i
-.PHONY : glad/src/glad.i
+include/camera/camera.i: include/camera/camera.cpp.i
+.PHONY : include/camera/camera.i
 
 # target to preprocess a source file
-glad/src/glad.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/glad/src/glad.c.i
-.PHONY : glad/src/glad.c.i
+include/camera/camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/camera/camera.cpp.i
+.PHONY : include/camera/camera.cpp.i
 
-glad/src/glad.s: glad/src/glad.c.s
-.PHONY : glad/src/glad.s
+include/camera/camera.s: include/camera/camera.cpp.s
+.PHONY : include/camera/camera.s
 
 # target to generate assembly for a file
-glad/src/glad.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/glad/src/glad.c.s
-.PHONY : glad/src/glad.c.s
+include/camera/camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/camera/camera.cpp.s
+.PHONY : include/camera/camera.cpp.s
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+lib/glad/src/glad.obj: lib/glad/src/glad.c.obj
+.PHONY : lib/glad/src/glad.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+lib/glad/src/glad.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/lib/glad/src/glad.c.obj
+.PHONY : lib/glad/src/glad.c.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+lib/glad/src/glad.i: lib/glad/src/glad.c.i
+.PHONY : lib/glad/src/glad.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/main.cpp.i
-.PHONY : main.cpp.i
+lib/glad/src/glad.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/lib/glad/src/glad.c.i
+.PHONY : lib/glad/src/glad.c.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+lib/glad/src/glad.s: lib/glad/src/glad.c.s
+.PHONY : lib/glad/src/glad.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/main.cpp.s
-.PHONY : main.cpp.s
+lib/glad/src/glad.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/lib/glad/src/glad.c.s
+.PHONY : lib/glad/src/glad.c.s
+
+src/main.obj: src/main.cpp.obj
+.PHONY : src/main.obj
+
+# target to build an object file
+src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/src/main.cpp.obj
+.PHONY : src/main.cpp.obj
+
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
+
+# target to preprocess a source file
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
+
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
+
+# target to generate assembly for a file
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 # Help Target
 help:
@@ -276,12 +300,15 @@ help:
 	@echo ... update_mappings
 	@echo ... glfw
 	@echo ... snake
-	@echo ... glad/src/glad.obj
-	@echo ... glad/src/glad.i
-	@echo ... glad/src/glad.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... include/camera/camera.obj
+	@echo ... include/camera/camera.i
+	@echo ... include/camera/camera.s
+	@echo ... lib/glad/src/glad.obj
+	@echo ... lib/glad/src/glad.i
+	@echo ... lib/glad/src/glad.s
+	@echo ... src/main.obj
+	@echo ... src/main.i
+	@echo ... src/main.s
 .PHONY : help
 
 
