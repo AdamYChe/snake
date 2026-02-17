@@ -49,4 +49,7 @@ public:
     void processKeyboard(CameraMovement direction, float deltaTime);
     void processMouseMovement(float xOffset, float yOffset, GLboolean constrainPitch = true);
     void processMouseScroll(float yOffset);
+
+    [[nodiscard]] float getZoom() const { return zoom; }
+    [[nodiscard]] glm::vec3 getPosition() const { return position; }
 };

@@ -8,7 +8,7 @@ void Camera::updateCameraVectors() {
     ));
 
     this->right = glm::normalize(glm::cross(this->front, this->worldUp));
-    this->up = glm::normalize(glm::cross(this->right, this->right));
+    this->up = glm::normalize(glm::cross(this->right, this->front));
 }
 
 Camera::Camera(const glm::vec3 &position, const glm::vec3 &up, const float &yaw, const float &pitch)
@@ -70,7 +70,7 @@ void Camera::processKeyboard(CameraMovement direction, float deltaTime) {
 
 void Camera::processMouseMovement(float xOffset, float yOffset, GLboolean constrainPitch) {
     xOffset *= mouseSensitivity;
-    yOffset += mouseSensitivity;
+    yOffset *= mouseSensitivity;
 
     this->yaw += xOffset;
     this->pitch += yOffset;

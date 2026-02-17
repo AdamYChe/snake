@@ -4,19 +4,40 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <glm/glm.hpp>
+#include <glm/gtc/type_ptr.hpp>
 #include <camera/camera.hpp>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
+void mouse_callback(GLFWwindow* window, double xPos, double yPos);
+void scroll_callback(GLFWwindow* window, double xOffset, double yOffset);
 void processInput(GLFWwindow* window);
+
+void printMat4(glm::mat4 mat) {
+    for (int i = 0; i < 4; ++i) { // Iterates over columns (outer loop)
+        for (int j = 0; j < 4; ++j) { // Iterates over rows (inner loop)
+            // Access using [column][row]
+            std::cout << mat[j][i] << " ";
+        }
+        std::cout << std::endl;
+    }
+    std::cout << std::endl;
+}
 
 #if defined(_WIN32) || defined(_WIN64)
 #include <windows.h>
-    int SCREEN_WIDTH = GetSystemMetrics(SM_CXSCREEN);
-    int SCREEN_HEIGHT = GetSystemMetrics(SM_CYSCREEN);
+    int SCREEN_WIDTH = GetSystemMetrics(SM_CXSCREEN) * 4;
+    int SCREEN_HEIGHT = GetSystemMetrics(SM_CYSCREEN) * 4;
 #else
     int SCREEN_WIDTH = 1600;
     int SCREEN_HEIGHT = 1200;
 #endif
+
+Camera camera;
+float lastX, lastY;
+bool firstMouse = true;
+
+float deltaTime = 0.0f;
+float lastFrame = 0.0f;
 
 int main() {
     glfwInit();
@@ -33,11 +54,17 @@ int main() {
 
     glfwMakeContextCurrent(window);
     glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
+    glfwSetScrollCallback(window, scroll_callback);
+    glfwSetCursorPosCallback(window, mouse_callback);
+
+    glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
     if(!gladLoadGLLoader((GLADloadproc) glfwGetProcAddress)) {
         std::cout << "Failed to initialize GLAD." << std::endl;
         return -1;
     }
+
+    glEnable(GL_DEPTH_TEST);
 
     std::ifstream vs;
     vs.open("../shaders/sampleVS.glsl", std::ios_base::in);
@@ -109,9 +136,47 @@ int main() {
     glDeleteShader(fsh);
 
     float vertices[] = {
-            -0.5f, -0.5f,  0.0f,    1.0f, 0.0f, 0.0f,
-             0.5f, -0.5f,  0.0f,    0.0f, 1.0f, 0.0f,
-             0.0f,  0.5f,  0.0f,    0.0f, 0.0f, 1.0f
+            -0.5f, -0.5f, -0.5f, 0.0f, 0.0f, 1.0f,
+            0.5f, -0.5f, -0.5f, 1.0f, 0.0f, 0.0f,
+            0.5f, 0.5f, -0.5f, 0.0f, 1.0f, 0.0f,
+            0.5f, 0.5f, -0.5f, 0.0f, 0.0f, 1.0f,
+            -0.5f, 0.5f, -0.5f, 1.0f, 0.0f, 0.0f,
+            -0.5f, -0.5f, -0.5f, 0.0f, 1.0f, 0.0f,
+
+            -0.5f, -0.5f, 0.5f, 0.0f, 0.0f, 1.0f,
+            0.5f, -0.5f, 0.5f, 1.0f, 0.0f, 0.0f,
+            0.5f, 0.5f, 0.5f, 0.0f, 1.0f, 0.0f,
+            0.5f, 0.5f, 0.5f, 0.0f, 0.0f, 1.0f,
+            -0.5f, 0.5f, 0.5f, 1.0f, 0.0f, 0.0f,
+            -0.5f, -0.5f, 0.5f, 0.0f, 1.0f, 0.0f,
+
+            -0.5f, 0.5f, 0.5f, 0.0f, 0.0f, 1.0f,
+            -0.5f, 0.5f, -0.5f, 1.0f, 0.0f, 0.0f,
+            -0.5f, -0.5f, -0.5f, 0.0f, 1.0f, 0.0f,
+            -0.5f, -0.5f, -0.5f, 0.0f, 0.0f, 1.0f,
+            -0.5f, -0.5f, 0.5f, 1.0f, 0.0f, 0.0f,
+            -0.5f, 0.5f, 0.5f, 0.0f, 1.0f, 0.0f,
+
+            0.5f, 0.5f, 0.5f, 0.0f, 0.0f, 1.0f,
+            0.5f, 0.5f, -0.5f, 1.0f, 0.0f, 0.0f,
+            0.5f, -0.5f, -0.5f, 0.0f, 1.0f, 0.0f,
+            0.5f, -0.5f, -0.5f, 0.0f, 0.0f, 1.0f,
+            0.5f, -0.5f, 0.5f, 1.0f, 0.0f, 0.0f,
+            0.5f, 0.5f, 0.5f, 0.0f, 1.0f, 0.0f,
+
+            -0.5f, -0.5f, -0.5f, 0.0f, 0.0f, 1.0f,
+            0.5f, -0.5f, -0.5f, 1.0f, 0.0f, 0.0f,
+            0.5f, -0.5f, 0.5f, 0.0f, 1.0f, 0.0f,
+            0.5f, -0.5f, 0.5f, 0.0f, 0.0f, 1.0f,
+            -0.5f, -0.5f, 0.5f, 1.0f, 0.0f, 0.0f,
+            -0.5f, -0.5f, -0.5f, 0.0f, 1.0f, 0.0f,
+
+            -0.5f, 0.5f, -0.5f, 0.0f, 0.0f, 1.0f,
+            0.5f, 0.5f, -0.5f, 1.0f, 0.0f, 0.0f,
+            0.5f, 0.5f, 0.5f, 0.0f, 1.0f, 0.0f,
+            0.5f, 0.5f, 0.5f, 0.0f, 0.0f, 1.0f,
+            -0.5f, 0.5f, 0.5f, 1.0f, 0.0f, 0.0f,
+            -0.5f, 0.5f, -0.5f, 0.0f, 1.0f, 0.0f
     };
 
     unsigned VBO, VAO;
@@ -131,15 +196,30 @@ int main() {
 
     glBindVertexArray(0);
 
+    glUseProgram(shader);
+    auto model = glm::mat4(1.0f);
+    glUniformMatrix4fv(glGetUniformLocation(shader, "model"), 1, GL_FALSE, glm::value_ptr(model));
+    glUseProgram(0);
+
     while(!glfwWindowShouldClose(window)) {
+        auto currentFrame = (float) glfwGetTime();
+        deltaTime = currentFrame - lastFrame;
+        lastFrame = currentFrame;
+
         processInput(window);
 
         glClearColor(0.1f, 0.1f, 0.1f, 0.0f);
-        glClear(GL_COLOR_BUFFER_BIT);
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
         glUseProgram(shader);
+
+        glm::mat4 projection = glm::perspective(glm::radians(camera.getZoom()), 4.0f / 3.0f, 0.1f, 100.0f);
+        glm::mat4 view = camera.getViewMatrix();
+        glUniformMatrix4fv(glGetUniformLocation(shader, "projection"), 1, GL_FALSE, glm::value_ptr(projection));
+        glUniformMatrix4fv(glGetUniformLocation(shader, "view"), 1, GL_FALSE, glm::value_ptr(view));
+
         glBindVertexArray(VAO);
-        glDrawArrays(GL_TRIANGLES, 0, 3);
+        glDrawArrays(GL_TRIANGLES, 0, 36);
 
         glfwSwapBuffers(window);
         glfwPollEvents();
@@ -153,8 +233,48 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height) {
     glViewport(0, 0, width, height);
 }
 
+void mouse_callback(GLFWwindow* window, double xPos, double yPos) {
+    if(firstMouse) {
+        lastX = (float)xPos;
+        lastY = (float)yPos;
+        firstMouse = false;
+    }
+
+    float xOffset = (float)xPos - lastX;
+    float yOffset = lastY - (float)yPos;
+
+    lastX = (float)xPos;
+    lastY = (float)yPos;
+
+    camera.processMouseMovement(xOffset, yOffset);
+}
+
+void scroll_callback(GLFWwindow *window, double xOffset, double yOffset) {
+    camera.processMouseScroll((float)yOffset);
+}
+
 void processInput(GLFWwindow* window) {
     if(glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS) {
         glfwSetWindowShouldClose(window, true);
+    }
+
+    if(glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS) {
+        camera.processKeyboard(FORWARD, deltaTime);
+    }
+    if(glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS) {
+        camera.processKeyboard(BACKWARD, deltaTime);
+    }
+    if(glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS) {
+        camera.processKeyboard(LEFT, deltaTime);
+    }
+    if(glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS) {
+        camera.processKeyboard(RIGHT, deltaTime);
+    }
+
+    if(glfwGetKey(window, GLFW_KEY_SPACE) == GLFW_PRESS) {
+        camera.processKeyboard(UP, deltaTime);
+    }
+    if(glfwGetKey(window, GLFW_KEY_LEFT_SHIFT) == GLFW_PRESS) {
+        camera.processKeyboard(DOWN, deltaTime);
     }
 }

@@ -344,19 +344,59 @@ CMakeFiles/snake.dir/src/main.cpp.obj: \
  C:/Users/adamy/Projects/snake/lib/glm/detail/type_half.inl \
  C:/Users/adamy/Projects/snake/lib/glm/integer.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/detail/func_integer.inl \
- C:/Users/adamy/Projects/snake/include/camera/camera.hpp \
- C:/Users/adamy/Projects/snake/lib/glm/gtc/matrix_transform.hpp \
- C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/gtc/constants.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_constants.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_constants.inl \
  C:/Users/adamy/Projects/snake/lib/glm/gtc/constants.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/matrix_transform.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.inl \
  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.inl \
  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_transform.hpp \
  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_transform.inl \
  C:/Users/adamy/Projects/snake/lib/glm/gtc/matrix_transform.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/detail/type_float.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float_precision.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double_precision.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/detail/setup.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.inl \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/vec1.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool1.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool1_precision.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1_precision.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1_precision.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1_sized.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1.hpp \
+ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1_sized.hpp \
+ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/string.h \
+ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.inl \
+ C:/Users/adamy/Projects/snake/include/camera/camera.hpp \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/windows.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sdkddkver.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/excpt.h \
@@ -376,8 +416,6 @@ CMakeFiles/snake.dir/src/main.cpp.obj: \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/intrin-impl.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/basetsd.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/guiddef.h \
- C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/string.h \
- C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/x86intrin.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/x86gprintrin.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ia32intrin.h \
