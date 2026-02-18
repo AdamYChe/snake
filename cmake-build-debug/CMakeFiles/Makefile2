@@ -132,12 +132,12 @@ lib/glfw/src/clean: lib/glfw/src/CMakeFiles/update_mappings.dir/clean
 CMakeFiles/snake.dir/all: lib/glfw/src/CMakeFiles/glfw.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles --progress-num=23,24,25,26 "Built target snake"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles --progress-num=23,24,25,26,27 "Built target snake"
 .PHONY : CMakeFiles/snake.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/snake.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles 26
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles 27
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/snake.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/snake.dir/rule
@@ -210,7 +210,7 @@ lib/glfw/src/CMakeFiles/glfw.dir/clean:
 lib/glfw/src/CMakeFiles/update_mappings.dir/all:
 	$(MAKE) $(MAKESILENT) -f lib\glfw\src\CMakeFiles\update_mappings.dir\build.make lib/glfw/src/CMakeFiles/update_mappings.dir/depend
 	$(MAKE) $(MAKESILENT) -f lib\glfw\src\CMakeFiles\update_mappings.dir\build.make lib/glfw/src/CMakeFiles/update_mappings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles --progress-num=27 "Built target update_mappings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\adamy\Projects\snake\cmake-build-debug\CMakeFiles --progress-num=28 "Built target update_mappings"
 .PHONY : lib/glfw/src/CMakeFiles/update_mappings.dir/all
 
 # Build rule for subdir invocation for target.

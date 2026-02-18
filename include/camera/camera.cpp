@@ -76,7 +76,7 @@ void Camera::processMouseMovement(float xOffset, float yOffset, GLboolean constr
     this->pitch += yOffset;
 
     if(constrainPitch) {
-        this->pitch = fminf(fmaxf(this->pitch, 0.01f), 89.9f);
+        this->pitch = fminf(fmaxf(this->pitch, -89.9f), 89.9f);
     }
 
     updateCameraVectors();

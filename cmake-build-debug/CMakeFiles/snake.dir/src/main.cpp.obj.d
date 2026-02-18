@@ -397,6 +397,7 @@ CMakeFiles/snake.dir/src/main.cpp.obj: \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.inl \
  C:/Users/adamy/Projects/snake/include/camera/camera.hpp \
+ C:/Users/adamy/Projects/snake/include/shader/shader.hpp \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/windows.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sdkddkver.h \
  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/excpt.h \

@@ -12,6 +12,7 @@ set(GLAD_LIB "${CMAKE_CURRENT_SOURCE_DIR}/lib/glad/src/glad.c")
 
 add_executable(snake src/main.cpp ${GLAD_LIB}
         include/camera/camera.cpp
+        include/shader/shader.cpp
 )
 
 target_link_libraries(snake glfw)

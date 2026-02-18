@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/adamy/Projects/snake/lib/glad/src/glad.c" "CMakeFiles/snake.dir/lib/glad/src/glad.c.obj" "gcc" "CMakeFiles/snake.dir/lib/glad/src/glad.c.obj.d"
   "C:/Users/adamy/Projects/snake/include/camera/camera.cpp" "CMakeFiles/snake.dir/include/camera/camera.cpp.obj" "gcc" "CMakeFiles/snake.dir/include/camera/camera.cpp.obj.d"
+  "C:/Users/adamy/Projects/snake/include/shader/shader.cpp" "CMakeFiles/snake.dir/include/shader/shader.cpp.obj" "gcc" "CMakeFiles/snake.dir/include/shader/shader.cpp.obj.d"
   "C:/Users/adamy/Projects/snake/src/main.cpp" "CMakeFiles/snake.dir/src/main.cpp.obj" "gcc" "CMakeFiles/snake.dir/src/main.cpp.obj.d"
   )
 

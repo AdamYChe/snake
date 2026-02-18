@@ -276,6 +276,401 @@ CMakeFiles/snake.dir/include/camera/camera.cpp.obj: C:/Users/adamy/Projects/snak
   C:/Users/adamy/Projects/snake/lib/glm/vector_relational.hpp \
   C:/Users/adamy/Projects/snake/include/camera/camera.hpp
 
+CMakeFiles/snake.dir/include/shader/shader.cpp.obj: C:/Users/adamy/Projects/snake/include/shader/shader.cpp \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/iterator_concepts.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/max_size_type.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/mofunc_impl.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move_only_function.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ranges_base.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ranges_cmp.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ranges_util.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cfloat \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/concepts \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdint \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numbers \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/beta_function.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/legendre_function.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_hermite.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/riemann_zeta.tcc \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/special_function_util.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/assert.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/errno.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/float.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/limits.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/locale.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/math.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/process.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/signal.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdint.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/string.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/time.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/adamy/Projects/snake/lib/glad/include/KHR/khrplatform.h \
+  C:/Users/adamy/Projects/snake/lib/glad/include/glad/glad.h \
+  C:/Users/adamy/Projects/snake/lib/glm/common.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/_fixes.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/_vectorize.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/compute_common.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/compute_vector_decl.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/compute_vector_relational.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_common.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_exponential.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_geometric.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_integer.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_matrix.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_packing.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_trigonometric.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/func_vector_relational.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/qualifier.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/setup.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_float.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_half.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_half.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x2.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x3.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x4.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x2.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x3.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x4.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x2.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x3.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x4.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec1.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec2.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec3.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec4.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/exponential.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_transform.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_transform.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_constants.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_constants.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_int_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_uint_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool1_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float2_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float3_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float4_precision.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int2_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int3_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int4_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint2_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint3_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint4_sized.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/fwd.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/geometric.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/glm.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/constants.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/constants.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/matrix_transform.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/matrix_transform.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.inl \
+  C:/Users/adamy/Projects/snake/lib/glm/gtc/vec1.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/integer.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat2x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat2x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat2x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat3x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat3x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat3x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat4x2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat4x3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/mat4x4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/matrix.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/packing.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/simd/platform.h \
+  C:/Users/adamy/Projects/snake/lib/glm/trigonometric.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/vec2.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/vec3.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/vec4.hpp \
+  C:/Users/adamy/Projects/snake/lib/glm/vector_relational.hpp \
+  C:/Users/adamy/Projects/snake/include/shader/shader.hpp
+
 CMakeFiles/snake.dir/lib/glad/src/glad.c.obj: C:/Users/adamy/Projects/snake/lib/glad/src/glad.c \
   C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/adxintrin.h \
   C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ammintrin.h \
@@ -997,6 +1392,7 @@ CMakeFiles/snake.dir/src/main.cpp.obj: C:/Users/adamy/Projects/snake/src/main.cp
   C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wtypes.h \
   C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wtypesbase.h \
   C:/Users/adamy/Projects/snake/include/camera/camera.hpp \
+  C:/Users/adamy/Projects/snake/include/shader/shader.hpp \
   C:/Users/adamy/Projects/snake/lib/glad/include/KHR/khrplatform.h \
   C:/Users/adamy/Projects/snake/lib/glad/include/glad/glad.h \
   C:/Users/adamy/Projects/snake/lib/glfw/include/GLFW/glfw3.h \
@@ -1186,13 +1582,13 @@ CMakeFiles/snake.dir/src/main.cpp.obj: C:/Users/adamy/Projects/snake/src/main.cp
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/apisetcconv.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sys/types.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sys/types.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint4.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/emmintrin.h:
 
@@ -1204,15 +1600,13 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x3.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/climits:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/timeapi.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double.hpp:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/specstrings.h:
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double.hpp:
 
 C:/Users/adamy/Projects/snake/src/main.cpp:
 
@@ -1230,6 +1624,8 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h:
 
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.inl:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit:
@@ -1238,11 +1634,11 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_uint_sized.hpp:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/processenv.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec4.hpp:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/processenv.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h:
 
@@ -1250,9 +1646,9 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512cdintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winreg.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h:
 
@@ -1274,19 +1670,21 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/exp_integral.tcc:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/float.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.inl:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/malloc.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.inl:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/float.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h:
 
@@ -1294,9 +1692,9 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/imm.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
 
@@ -1308,13 +1706,11 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/oaidl.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/iterator_concepts.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/f16cintrin.h:
 
@@ -1325,6 +1721,8 @@ C:/Users/adamy/Projects/snake/lib/glm/detail/compute_common.hpp:
 C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_constants.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cassert:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h:
 
@@ -1338,21 +1736,21 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_transform.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fma4intrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winnt.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/mofunc_impl.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fma4intrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ncrypt.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/mofunc_impl.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int4_sized.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vp2intersectvlintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/virtdisk.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vp2intersectvlintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h:
 
@@ -1372,11 +1770,15 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ranges_base.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fxsrintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1_precision.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ranges_cmp.h:
 
@@ -1392,9 +1794,9 @@ C:/Users/adamy/Projects/snake/lib/glm/detail/_fixes.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/specfun.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/windef.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x2_precision.hpp:
 
@@ -1402,17 +1804,17 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/urlmon.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double4_precision.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/urlmon.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1.hpp:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
 
@@ -1460,25 +1862,25 @@ C:/Users/adamy/Projects/snake/lib/glm/mat2x2.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/limits:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/propidl.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/numbers:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.inl:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x2_precision.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint4_sized.hpp:
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.inl:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint4_sized.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map:
 
@@ -1490,15 +1892,15 @@ C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x4.inl:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/ell_integral.tcc:
 
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_half.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool2.hpp:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdarg.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/gamma.tcc:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdarg.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_half.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool2.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/hypergeometric.tcc:
 
@@ -1506,15 +1908,13 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/commdlg.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x2.inl:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winnls.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/oleidl.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winnls.h:
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x2.inl:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/modified_bessel_func.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/libloaderapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/poly_laguerre.tcc:
 
@@ -1544,8 +1944,6 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512ifmavlintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_socket_types.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/vector_relational.hpp:
@@ -1564,6 +1962,8 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdint.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h:
@@ -1571,6 +1971,8 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/datetimeapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h:
 
@@ -1588,15 +1990,19 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bf16vlintrin.h:
 
+C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.inl:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/math.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdio.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
 
@@ -1606,9 +2012,9 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdint.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavesintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_wsadata.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavesintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stdlib.h:
 
@@ -1626,9 +2032,9 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winsock.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/common.hpp:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/reason.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/common.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/_vectorize.hpp:
 
@@ -1640,9 +2046,9 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x2.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/compute_vector_decl.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x3.hpp:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/handleapi.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x3.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/compute_vector_relational.hpp:
 
@@ -1650,7 +2056,11 @@ C:/Users/adamy/Projects/snake/lib/glm/detail/func_common.inl:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float4_precision.hpp:
 
+C:/Users/adamy/Projects/snake/include/shader/shader.hpp:
+
 C:/Users/adamy/Projects/snake/lib/glm/detail/func_exponential.inl:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_float.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/func_geometric.inl:
 
@@ -1678,7 +2088,13 @@ C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x3.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x3.inl:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
+
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x4.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wtypesbase.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/process.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat2x4.inl:
 
@@ -1688,27 +2104,25 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x2.inl:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h:
-
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x3.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/geometric.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/string.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x3.inl:
 
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x4.hpp:
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x2_precision.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winbase.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x2_precision.hpp:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcnterr.h:
-
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x4.inl:
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x4.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/fltwinerror.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat3x4.inl:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_mat4x2.hpp:
 
@@ -1724,23 +2138,23 @@ C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec1.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
+
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec1.inl:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream:
-
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec2.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wincrypt.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec2.inl:
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec2.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stringapiset.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec2.inl:
 
 C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec3.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec3.inl:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pshpack2.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_vec3.inl:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/concurrencysal.h:
 
@@ -1750,15 +2164,13 @@ C:/Users/adamy/Projects/snake/lib/glm/exponential.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.inl:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_fd_types.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/jobapi.h:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x2.hpp:
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_clip_space.inl:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/objidl.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x2.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double2x2_precision.hpp:
 
@@ -1776,9 +2188,9 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x3_precision.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x4.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x4_precision.hpp:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pshpack8.h:
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double3x4_precision.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_double4x2.hpp:
 
@@ -1794,8 +2206,6 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x2.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x3.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stralign_s.h:
-
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x3_precision.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int3_sized.hpp:
@@ -1806,33 +2216,33 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double2_precision.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float2x4_precision.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x2.hpp:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sal.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x2.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x3.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
-
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x3_precision.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float3x4_precision.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x2.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
-
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_float4x4_precision.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.inl:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/minwindef.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1_sized.hpp:
+C:/Users/adamy/Projects/snake/lib/glm/ext/matrix_projection.inl:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/locale.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint1_sized.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxtileintrin.h:
 
@@ -1844,13 +2254,15 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_constants.inl:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/scalar_int_sized.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h:
-
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool2_precision.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveoptintrin.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h:
+
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool3.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool3_precision.hpp:
 
@@ -1864,13 +2276,17 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double2.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmi2intrin.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double3.hpp:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_ip_mreq1.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/timezoneapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/servprov.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/timezoneapi.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_ip_mreq1.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double3.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double3_precision.hpp:
 
@@ -1882,21 +2298,17 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/smmintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sdkddkver.h:
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int2.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int2.hpp:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wingdi.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int2_sized.hpp:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wingdi.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int3.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int4.hpp:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ktmtypes.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint2.hpp:
 
@@ -1910,21 +2322,21 @@ C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint2_sized.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint3.hpp:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/driverspecs.h:
+
 C:/Users/adamy/Projects/snake/lib/glm/ext/vector_uint3_sized.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/matrix.hpp:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/driverspecs.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 C:/Users/adamy/Projects/snake/lib/glm/fwd.hpp:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxifmaintrin.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/glm.hpp:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/oleauto.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/glm.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/gtc/constants.hpp:
 
@@ -1936,9 +2348,9 @@ C:/Users/adamy/Projects/snake/lib/glm/gtc/matrix_transform.inl:
 
 C:/Users/adamy/Projects/snake/lib/glm/integer.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/tvout.h:
-
 C:/Users/adamy/Projects/snake/lib/glm/mat2x3.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.inl:
 
 C:/Users/adamy/Projects/snake/lib/glm/mat2x4.hpp:
 
@@ -1954,9 +2366,9 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/Projects/snake/lib/glm/mat4x2.hpp:
 
-C:/Users/adamy/Projects/snake/lib/glm/mat4x3.hpp:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/objbase.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/mat4x3.hpp:
 
 C:/Users/adamy/Projects/snake/lib/glm/mat4x4.hpp:
 
@@ -1970,27 +2382,211 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/Projects/snake/lib/glm/vec4.hpp:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
+
 C:/Users/adamy/Projects/snake/include/camera/camera.hpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ammintrin.h:
+C:/Users/adamy/Projects/snake/include/shader/shader.cpp:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxint8intrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx5124vnniwintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/minwinbase.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bf16intrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/nb30.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bwintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/synchapi.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/utilapiset.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.inl:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/unknwn.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/threadpoollegacyapiset.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
+
+C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ddeml.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vlintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/time.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tmmintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmiintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pconfigintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512erintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/processtopologyapi.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmsyscom.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.inl:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wctype.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/signal.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wchar.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vldqintrin.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.inl:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmivlintrin.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double_precision.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float_precision.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.inl:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcsal.h:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.inl:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool1.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1_precision.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1_sized.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.hpp:
+
+C:/Users/adamy/Projects/snake/lib/glm/gtc/vec1.hpp:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ammintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/amxint8intrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512fintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/minwinbase.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx5124vnniwintrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bf16intrin.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512bwintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mwaitxintrin.h:
 
@@ -2004,31 +2600,25 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512ifmaintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2intrin.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/realtimeapiset.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rtmintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcdcep.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/rtmintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/realtimeapiset.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2intrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmi2vlintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmiintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vbmivlintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/pkuintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vlbwintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vldqintrin.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vlintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/threadpoolapiset.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vpopcntdqintrin.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/threadpoolapiset.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avx512vpopcntdqvlintrin.h:
 
@@ -2039,12 +2629,6 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/popcntintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/avxvnniintrin.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/bmiintrin.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wincon.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/clflushoptintrin.h:
 
@@ -2058,13 +2642,11 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/fmaintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/gfniintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winapifamily.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/hresetintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/gfniintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpc.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/hresetintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/ia32intrin.h:
 
@@ -2074,11 +2656,9 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm3dnow.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mmintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/securityappcontainer.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/joystickapi.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mmintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/movdirintrin.h:
 
@@ -2086,17 +2666,11 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/prfchwintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/shellapi.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/serializeintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/basetsd.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tbmintrin.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/tmmintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/vaesintrin.h:
 
@@ -2108,53 +2682,29 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/wmmintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xmmintrin.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pshpack4.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmsystem.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xmmintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xopintrin.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavecintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xtestintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ole2.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xtestintrin.h:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.inl:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveintrin.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavecintrin.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_bsd_types.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmsyscom.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_stdarg.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/synchapi.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/namespaceapi.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_unicode.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/bemapiset.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winerror.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/cderr.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/cguid.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/dde.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ddeml.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/debugapi.h:
 
@@ -2180,41 +2730,41 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ioapiset.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/jobapi.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/joystickapi.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/ktmtypes.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/libloaderapi.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/lzexpand.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mciapi.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/systemtopologyapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mcx.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/memoryapi.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmeapi.h:
-
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winperf.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcasync.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmeapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmiscapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmiscapi2.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/msxml.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/mmsystem.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/windows.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/profileapi.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winnetwk.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/msxml.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/namedpipeapi.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/intrin-impl.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/namespaceapi.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/nb30.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/oaidl.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/objidlbase.h:
 
@@ -2224,21 +2774,27 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/processthreadsapi.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/processtopologyapi.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/profileapi.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/prsht.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_ip_types.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_socket_types.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_wsa_errnos.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/_xmitfile.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/psdk_inc/intrin-impl.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pshpack1.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pshpack8.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpc.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcasync.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcdce.h:
 
@@ -2248,33 +2804,41 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcnsip.h:
 
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_relational.hpp:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcnterr.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/rpcsal.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sdkddkver.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/stralign_s.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/securitybaseapi.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/shellapi.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/specstrings.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stralign.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/stringapiset.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sysinfoapi.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/systemtopologyapi.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/threadpoollegacyapiset.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/unknwn.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/tvout.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/unknwnbase.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/utilapiset.h:
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wincon.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winefs.h:
 
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winerror.h:
+
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winioctl.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winnetwk.h:
+
+C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winreg.h:
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/winscard.h:
 
@@ -2290,168 +2854,4 @@ C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include
 
 C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wtypes.h:
 
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/process.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wtypesbase.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/signal.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/time.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wchar.h:
-
-C:/Users/adamy/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include/wctype.h:
-
 C:/Users/adamy/Projects/snake/lib/glfw/include/GLFW/glfw3.h:
-
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_float.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/detail/type_quat.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_common.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_double_precision.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_float_precision.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_geometric.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_transform.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/quaternion_trigonometric.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_bool1.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_double1_precision.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_float1_precision.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_int1_sized.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/ext/vector_relational.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/epsilon.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.inl:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/quaternion.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/type_ptr.hpp:
-
-C:/Users/adamy/Projects/snake/lib/glm/gtc/vec1.hpp:

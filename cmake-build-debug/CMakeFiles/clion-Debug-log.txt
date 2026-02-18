@@ -11,6 +11,6 @@ CMake Deprecation Warning:
 -- Including Win32 support
 -- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
 -- Documentation generation requires Doxygen 1.9.8 or later
--- Configuring done (0.1s)
--- Generating done (0.2s)
+-- Configuring done (1.7s)
+-- Generating done (0.9s)
 -- Build files have been written to: C:/Users/adamy/Projects/snake/cmake-build-debug

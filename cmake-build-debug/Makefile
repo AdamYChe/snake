@@ -236,6 +236,30 @@ include/camera/camera.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/camera/camera.cpp.s
 .PHONY : include/camera/camera.cpp.s
 
+include/shader/shader.obj: include/shader/shader.cpp.obj
+.PHONY : include/shader/shader.obj
+
+# target to build an object file
+include/shader/shader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/shader/shader.cpp.obj
+.PHONY : include/shader/shader.cpp.obj
+
+include/shader/shader.i: include/shader/shader.cpp.i
+.PHONY : include/shader/shader.i
+
+# target to preprocess a source file
+include/shader/shader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/shader/shader.cpp.i
+.PHONY : include/shader/shader.cpp.i
+
+include/shader/shader.s: include/shader/shader.cpp.s
+.PHONY : include/shader/shader.s
+
+# target to generate assembly for a file
+include/shader/shader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/shader/shader.cpp.s
+.PHONY : include/shader/shader.cpp.s
+
 lib/glad/src/glad.obj: lib/glad/src/glad.c.obj
 .PHONY : lib/glad/src/glad.obj
 
@@ -303,6 +327,9 @@ help:
 	@echo ... include/camera/camera.obj
 	@echo ... include/camera/camera.i
 	@echo ... include/camera/camera.s
+	@echo ... include/shader/shader.obj
+	@echo ... include/shader/shader.i
+	@echo ... include/shader/shader.s
 	@echo ... lib/glad/src/glad.obj
 	@echo ... lib/glad/src/glad.i
 	@echo ... lib/glad/src/glad.s
