@@ -216,6 +216,42 @@
 		<Unit filename="C:/Users/adamy/Projects/snake/include/camera/camera.hpp">
 			<Option target="snake"/>
 		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/block.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/block.hpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/board.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/board.hpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/game.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/game.hpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/snake.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/game/snake.hpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/render/renderObject.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/render/renderObject.hpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/setup/window.cpp">
+			<Option target="snake"/>
+		</Unit>
+		<Unit filename="C:/Users/adamy/Projects/snake/include/setup/window.hpp">
+			<Option target="snake"/>
+		</Unit>
 		<Unit filename="C:/Users/adamy/Projects/snake/include/shader/shader.cpp">
 			<Option target="snake"/>
 		</Unit>

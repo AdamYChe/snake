@@ -5,20 +5,12 @@
 #include <glm/gtc/type_ptr.hpp>
 #include <camera/camera.hpp>
 #include <shader/shader.hpp>
+#include <setup/window.hpp>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void mouse_callback(GLFWwindow* window, double xPos, double yPos);
 void scroll_callback(GLFWwindow* window, double xOffset, double yOffset);
 void processInput(GLFWwindow* window);
-
-#if defined(_WIN32) || defined(_WIN64)
-#include <windows.h>
-    int SCREEN_WIDTH = GetSystemMetrics(SM_CXSCREEN) * 4;
-    int SCREEN_HEIGHT = GetSystemMetrics(SM_CYSCREEN) * 4;
-#else
-    int SCREEN_WIDTH = 1600;
-    int SCREEN_HEIGHT = 1200;
-#endif
 
 Camera camera;
 float lastX, lastY;
@@ -33,19 +25,18 @@ int main() {
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 4);
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
-    GLFWwindow* window = glfwCreateWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "3D Snake", nullptr, nullptr);
-    if(!window) {
+    if(!Window::getInstance()) {
         std::cout << "Failed to initialize GLFWwindow." << std::endl;
         glfwTerminate();
         return -1;
     }
 
-    glfwMakeContextCurrent(window);
-    glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
-    glfwSetScrollCallback(window, scroll_callback);
-    glfwSetCursorPosCallback(window, mouse_callback);
+    glfwMakeContextCurrent(Window::getInstance());
+    glfwSetFramebufferSizeCallback(Window::getInstance(), framebuffer_size_callback);
+    glfwSetScrollCallback(Window::getInstance(), scroll_callback);
+    glfwSetCursorPosCallback(Window::getInstance(), mouse_callback);
 
-    glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
+    glfwSetInputMode(Window::getInstance(), GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
     if(!gladLoadGLLoader((GLADloadproc) glfwGetProcAddress)) {
         std::cout << "Failed to initialize GLAD." << std::endl;
@@ -122,12 +113,12 @@ int main() {
     shader.setMat4("model", model);
     glUseProgram(0);
 
-    while(!glfwWindowShouldClose(window)) {
+    while(!glfwWindowShouldClose(Window::getInstance())) {
         auto currentFrame = (float) glfwGetTime();
         deltaTime = currentFrame - lastFrame;
         lastFrame = currentFrame;
 
-        processInput(window);
+        processInput(Window::getInstance());
 
         glClearColor(0.1f, 0.1f, 0.1f, 0.0f);
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
@@ -142,7 +133,7 @@ int main() {
         glBindVertexArray(VAO);
         glDrawArrays(GL_TRIANGLES, 0, 36);
 
-        glfwSwapBuffers(window);
+        glfwSwapBuffers(Window::getInstance());
         glfwPollEvents();
     }
 

@@ -236,6 +236,150 @@ include/camera/camera.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/camera/camera.cpp.s
 .PHONY : include/camera/camera.cpp.s
 
+include/game/block.obj: include/game/block.cpp.obj
+.PHONY : include/game/block.obj
+
+# target to build an object file
+include/game/block.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/block.cpp.obj
+.PHONY : include/game/block.cpp.obj
+
+include/game/block.i: include/game/block.cpp.i
+.PHONY : include/game/block.i
+
+# target to preprocess a source file
+include/game/block.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/block.cpp.i
+.PHONY : include/game/block.cpp.i
+
+include/game/block.s: include/game/block.cpp.s
+.PHONY : include/game/block.s
+
+# target to generate assembly for a file
+include/game/block.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/block.cpp.s
+.PHONY : include/game/block.cpp.s
+
+include/game/board.obj: include/game/board.cpp.obj
+.PHONY : include/game/board.obj
+
+# target to build an object file
+include/game/board.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/board.cpp.obj
+.PHONY : include/game/board.cpp.obj
+
+include/game/board.i: include/game/board.cpp.i
+.PHONY : include/game/board.i
+
+# target to preprocess a source file
+include/game/board.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/board.cpp.i
+.PHONY : include/game/board.cpp.i
+
+include/game/board.s: include/game/board.cpp.s
+.PHONY : include/game/board.s
+
+# target to generate assembly for a file
+include/game/board.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/board.cpp.s
+.PHONY : include/game/board.cpp.s
+
+include/game/game.obj: include/game/game.cpp.obj
+.PHONY : include/game/game.obj
+
+# target to build an object file
+include/game/game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/game.cpp.obj
+.PHONY : include/game/game.cpp.obj
+
+include/game/game.i: include/game/game.cpp.i
+.PHONY : include/game/game.i
+
+# target to preprocess a source file
+include/game/game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/game.cpp.i
+.PHONY : include/game/game.cpp.i
+
+include/game/game.s: include/game/game.cpp.s
+.PHONY : include/game/game.s
+
+# target to generate assembly for a file
+include/game/game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/game.cpp.s
+.PHONY : include/game/game.cpp.s
+
+include/game/snake.obj: include/game/snake.cpp.obj
+.PHONY : include/game/snake.obj
+
+# target to build an object file
+include/game/snake.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/snake.cpp.obj
+.PHONY : include/game/snake.cpp.obj
+
+include/game/snake.i: include/game/snake.cpp.i
+.PHONY : include/game/snake.i
+
+# target to preprocess a source file
+include/game/snake.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/snake.cpp.i
+.PHONY : include/game/snake.cpp.i
+
+include/game/snake.s: include/game/snake.cpp.s
+.PHONY : include/game/snake.s
+
+# target to generate assembly for a file
+include/game/snake.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/game/snake.cpp.s
+.PHONY : include/game/snake.cpp.s
+
+include/render/renderObject.obj: include/render/renderObject.cpp.obj
+.PHONY : include/render/renderObject.obj
+
+# target to build an object file
+include/render/renderObject.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/render/renderObject.cpp.obj
+.PHONY : include/render/renderObject.cpp.obj
+
+include/render/renderObject.i: include/render/renderObject.cpp.i
+.PHONY : include/render/renderObject.i
+
+# target to preprocess a source file
+include/render/renderObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/render/renderObject.cpp.i
+.PHONY : include/render/renderObject.cpp.i
+
+include/render/renderObject.s: include/render/renderObject.cpp.s
+.PHONY : include/render/renderObject.s
+
+# target to generate assembly for a file
+include/render/renderObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/render/renderObject.cpp.s
+.PHONY : include/render/renderObject.cpp.s
+
+include/setup/window.obj: include/setup/window.cpp.obj
+.PHONY : include/setup/window.obj
+
+# target to build an object file
+include/setup/window.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/setup/window.cpp.obj
+.PHONY : include/setup/window.cpp.obj
+
+include/setup/window.i: include/setup/window.cpp.i
+.PHONY : include/setup/window.i
+
+# target to preprocess a source file
+include/setup/window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/setup/window.cpp.i
+.PHONY : include/setup/window.cpp.i
+
+include/setup/window.s: include/setup/window.cpp.s
+.PHONY : include/setup/window.s
+
+# target to generate assembly for a file
+include/setup/window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\snake.dir\build.make CMakeFiles/snake.dir/include/setup/window.cpp.s
+.PHONY : include/setup/window.cpp.s
+
 include/shader/shader.obj: include/shader/shader.cpp.obj
 .PHONY : include/shader/shader.obj
 
@@ -327,6 +471,24 @@ help:
 	@echo ... include/camera/camera.obj
 	@echo ... include/camera/camera.i
 	@echo ... include/camera/camera.s
+	@echo ... include/game/block.obj
+	@echo ... include/game/block.i
+	@echo ... include/game/block.s
+	@echo ... include/game/board.obj
+	@echo ... include/game/board.i
+	@echo ... include/game/board.s
+	@echo ... include/game/game.obj
+	@echo ... include/game/game.i
+	@echo ... include/game/game.s
+	@echo ... include/game/snake.obj
+	@echo ... include/game/snake.i
+	@echo ... include/game/snake.s
+	@echo ... include/render/renderObject.obj
+	@echo ... include/render/renderObject.i
+	@echo ... include/render/renderObject.s
+	@echo ... include/setup/window.obj
+	@echo ... include/setup/window.i
+	@echo ... include/setup/window.s
 	@echo ... include/shader/shader.obj
 	@echo ... include/shader/shader.i
 	@echo ... include/shader/shader.s
